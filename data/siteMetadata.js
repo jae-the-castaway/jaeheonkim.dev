@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://jaeheonkim-portfolio-blog.vercel.app',
   siteRepo: 'https://github.com/jae-the-castaway/tailwind-next-js-blog',
   siteLogo: '/static/favicons/favicon.ico',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/profile.jpg',
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'jaeheonkim95@gmail.com',
   github: 'https://github.com/jae-the-castaway',
