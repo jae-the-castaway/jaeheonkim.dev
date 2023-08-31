@@ -3,7 +3,7 @@ import ProjectSection from './projectSection'
 
 export default async function Page() {
   return (
-    <main className=" ">
+    <main className="">
       <HeroSection />
       <ProjectSection />
     </main>
