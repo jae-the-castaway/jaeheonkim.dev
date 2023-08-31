@@ -22,7 +22,6 @@ function HeroSection() {
             className="btn-primary group py-4 font-bold text-xl text-primary-700 dark:text-primary-300"
             href={'/about'}
           >
-            
             Get to know me
           </Link>
         </div>
