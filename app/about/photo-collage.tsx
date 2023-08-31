@@ -18,8 +18,8 @@ function PhotoCollage() {
             <div className="h-80 overflow-hidden  sm:h-80 lg:h-auto lg:rounded-bl-3xl">
               <Image
                 className=" relative  top-[0px] w-full object-cover"
-                src={'/static/images/about-me/about-me/soldering.jpeg'}
-                alt="Jaeheon solering"
+                src={'/static/images/about-me/soldering.jpeg'}
+                alt="Jaeheon soldering"
                 width={1000}
                 height={1000}
               />

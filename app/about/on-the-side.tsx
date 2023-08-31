@@ -4,15 +4,15 @@ function OnTheSide() {
   return (
     <div className=" mx-4 my-20">
       <div className=" my-32 mx-auto flex max-w-xl flex-col items-center px-4 md:max-w-2xl lg:max-w-5xl lg:flex-row">
-        <div className="pr-6 lg:w-1/2">
-          <p className="inline text-2xl text-gray-500">On the side: </p>
-          <h3 className="inline text-3xl font-bold text-gray-700">YouTube Channel</h3>
-          <p className=" mt-10 mb-4 text-xl text-gray-500">
+        <div className="pr-6 lg:w-1/2 ">
+          <p className="inline text-2xl text-gray-700 dark:text-gray-300 ">On the side: </p>
+          <h3 className="inline text-3xl font-bold ">YouTube Channel</h3>
+          <p className=" mt-10 mb-4 text-xl prose dark:prose-invert">
             In 2018, my girlfriend(my wife now!) and I started a&nbsp;
             <a
               href="https://www.youtube.com/@MaleeaandJae/videos"
               target="_blank"
-              className="font-bold text-emerald-700"
+              className="font-bold text-primary-700 dark:text-primary-300"
             >
               YouTube channel
             </a>
@@ -20,7 +20,7 @@ function OnTheSide() {
             since. This experience has allowed me to learn video editing and videography by watching
             online tutorials, which has improved my content creation skills.
           </p>
-          <p className=" mb-4 text-xl text-gray-500">
+          <p className=" mb-4 text-xl prose dark:prose-invert">
             As a co-creator of a successful YouTube channel with over 52,000 subscribers, I am
             responsible for managing all aspects of video production, including filming and editing
             all content and creating attractive thumbnails to increase viewer engagement.
@@ -39,13 +39,13 @@ function OnTheSide() {
       <div className=" my-32 mx-auto flex max-w-xl flex-col items-center px-4 md:max-w-2xl lg:max-w-5xl lg:flex-row">
         {' '}
         <div className="pr-6 lg:w-1/2">
-          <p className="inline text-2xl text-gray-500">On the side:</p>
-          <h3 className="inline text-3xl font-bold text-gray-700"> Walking</h3>
-          <p className=" mt-10 mb-4 text-xl text-gray-500">
+          <p className="inline text-2xl ">On the side:</p>
+          <h3 className="inline text-3xl font-bold "> Walking</h3>
+          <p className=" mt-10 mb-4 text-xl prose dark:prose-invert">
             Walking is one of my favorite hobby. in fact, I loved it so much that we decided to move
             to Chicago and even sold our car since I didn't really need it anymore.
           </p>
-          <p className=" mb-4 text-xl text-gray-500">
+          <p className=" mb-4 text-xl prose dark:prose-invert">
             It's a great way to stay active and healthy. But beyond the physical benefits, I also
             love walking beacause it allows me to explore my city in a way that I never could when I
             was driving. I feel like I'm doing my part to contribute to a more sustainable and
@@ -64,13 +64,13 @@ function OnTheSide() {
       </div>
       <div className=" my-32 mx-auto flex max-w-xl flex-col items-center px-4 md:max-w-2xl lg:max-w-5xl lg:flex-row">
         <div className="pr-6 lg:w-1/2">
-          <p className="inline text-2xl text-gray-500">On the side:</p>
-          <h3 className="inline text-3xl font-bold text-gray-700"> Hiking</h3>
-          <p className=" mt-10 mb-4 text-xl text-gray-500">
+          <p className="inline text-2xl ">On the side:</p>
+          <h3 className="inline text-3xl font-bold "> Hiking</h3>
+          <p className=" mt-10 mb-4 text-xl prose dark:prose-invert">
             Did you know South Korea is covered by mountains by 70%? It's a great country to go
             hiking with beautiful four seasons.
           </p>
-          <p className=" mb-4 text-xl text-gray-500">
+          <p className=" mb-4 text-xl prose dark:prose-invert">
             I make sure to hit the trails at least once a month, with a car-sharing service, Zipcar
             and a delicious stash of trail mix as my trusty sidekicks.
           </p>
@@ -87,13 +87,13 @@ function OnTheSide() {
       </div>
       <div className=" my-32 mx-auto flex max-w-xl flex-col items-center px-4 md:max-w-2xl lg:max-w-5xl lg:flex-row">
         <div className="pr-6 lg:w-1/2">
-          <p className="inline text-2xl text-gray-500">On the side:</p>
-          <h3 className="inline text-3xl font-bold text-gray-700"> Playing video games</h3>
-          <p className=" mt-10 mb-4 text-xl text-gray-500">
+          <p className="inline text-2xl ">On the side:</p>
+          <h3 className="inline text-3xl font-bold ">Playing video games</h3>
+          <p className=" mt-10 mb-4 text-xl prose dark:prose-invert">
             As an avid gamer, I'm always on the lookout for new titles that offer engaging gameplay
             and interesting storylines. While I enjoy many different types of games.
           </p>
-          <p className=" mb-4 text-xl text-gray-500">
+          <p className=" mb-4 text-xl prose dark:prose-invert">
             I'm also a discerning critic who appreiciate effort and creativity that goes into making
             games. I also appreciate games that offer unique or innovative mechanics, and that push
             the boundaries of what's possible within the medium.
