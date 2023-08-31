@@ -28,7 +28,7 @@ function OnTheSide() {
         </div>
         <div className=" aspect-square w-full flex-auto overflow-hidden rounded-3xl lg:w-1/2  ">
           <Image
-            src="/static/images/about-me/youtube-channel.jpg"
+            src="/static/images/about/youtube-channel.jpg"
             className=" w-full bg-cover"
             alt="Maleea and Jae with plants on a porch"
             width={500}
@@ -54,7 +54,7 @@ function OnTheSide() {
         </div>
         <div className=" aspect-square w-full flex-auto overflow-hidden rounded-3xl lg:w-1/2  ">
           <Image
-            src="/static/images/about-me/walking.png"
+            src="/static/images/about/walking.png"
             className=" w-full bg-cover"
             alt="a book, Walkable City"
             width={500}
@@ -77,7 +77,7 @@ function OnTheSide() {
         </div>
         <div className=" aspect-square w-full flex-auto overflow-hidden rounded-3xl lg:w-1/2  ">
           <Image
-            src="/static/images/about-me/hiking.jpeg"
+            src="/static/images/about/hiking.jpeg"
             className=" relative -top-[150px] w-full bg-cover"
             alt="Maleea and Jae in Red River Gorge"
             width={500}
@@ -101,7 +101,7 @@ function OnTheSide() {
         </div>
         <div className=" aspect-square w-full flex-auto overflow-hidden rounded-3xl lg:w-1/2  ">
           <Image
-            src="/static/images/about-me/playing-video-games.jpg"
+            src="/static/images/about/playing-video-games.jpg"
             className=" w-full bg-cover"
             alt="a picture of PlayStation 5 and Nintendo Switch"
             width={500}

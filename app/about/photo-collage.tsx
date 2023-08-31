@@ -9,7 +9,7 @@ function PhotoCollage() {
             <div className=" h-80 w-full overflow-hidden rounded-t-3xl md:h-80 lg:h-auto  lg:rounded-tr-none">
               <Image
                 className=" relative -top-[100px] w-full origin-bottom-right object-cover lg:-top-[0px] "
-                src={'/static/images/about-me/airforce.jpg'}
+                src={'/static/images/about/airforce.jpg'}
                 alt="profile photo in air force"
                 width={200}
                 height={200}
@@ -18,7 +18,7 @@ function PhotoCollage() {
             <div className="h-80 overflow-hidden  sm:h-80 lg:h-auto lg:rounded-bl-3xl">
               <Image
                 className=" relative  top-[0px] w-full object-cover"
-                src={'/static/images/about-me/soldering.jpeg'}
+                src={'/static/images/about/soldering.jpeg'}
                 alt="Jaeheon soldering"
                 width={1000}
                 height={1000}
@@ -29,7 +29,7 @@ function PhotoCollage() {
             <div className=" h-80 overflow-hidden sm:h-80  lg:rounded-tr-3xl">
               <Image
                 className=" relative -top-[180px] w-full object-cover sm:-top-[350px] md:-top-[450px] lg:-top-[350px] "
-                src={'/static/images/about-me/couple.jpeg'}
+                src={'/static/images/about/couple.jpeg'}
                 alt="Maleea and Jae in a forest"
                 width={1000}
                 height={1000}
@@ -38,7 +38,7 @@ function PhotoCollage() {
             <div className="h-80 overflow-hidden rounded-b-3xl sm:h-80 lg:h-auto lg:rounded-bl-none ">
               <Image
                 className="relative -top-[130px] w-full object-cover sm:-top-[350px]  md:-top-[450px] lg:-top-[0px] "
-                src={'/static/images/about-me/hiking-with-camera.jpeg'}
+                src={'/static/images/about/hiking-with-camera.jpeg'}
                 alt="Jaeheon with a camera sitting in a rock"
                 width={1000}
                 height={1000}
