@@ -6,9 +6,9 @@ const siteMetadata = {
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://jaeheonkim-portfolio-blog.vercel.app',
   siteRepo: 'https://github.com/jae-the-castaway/tailwind-next-js-blog',
-  siteLogo: '/static/images/profile.jpg',
+  siteLogo: '/static/favicons/favicon.ico',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'jaeheonkim95@gmail.com',
