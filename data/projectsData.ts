@@ -1,19 +1,27 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Seenit - Simple Reddit clone app',
+    description: [
+      `Type your favorite subreddit and watch image/video contents only.`,
+      `It's built with React and Tailwind.`,
+    ],
+    imgSrc: '/static/images/projects/seenit.png',
+    href: 'https://seenit-reddit-clone.netlify.app',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'IP Address Tracker',
+    description: [
+      `Search for any IP addresses and see the key information and location.`,
+      `It's built with React and Styled Components.`,
+    ],
+    imgSrc: '/static/images/projects/ip-tracker.png',
+    href: 'https://jae-the-castaway-ip-tracker.netlify.app',
+  },
+  {
+    title: 'Responsive Calculator with Multiple Themes',
+    description: [`It's built with pure CSS and JavaScript.`],
+    imgSrc: '/static/images/projects/calculator.png',
+    href: 'https://jaeheonkim-calculator.netlify.app',
   },
 ]
 

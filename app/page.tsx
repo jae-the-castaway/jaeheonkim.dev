@@ -1,11 +1,11 @@
 import HeroSection from './hero'
-import ProjectSection from './projectSection'
+import Projects from './projects'
 
 export default async function Page() {
   return (
     <main className="">
       <HeroSection />
-      <ProjectSection />
+      <Projects />
     </main>
   )
 }

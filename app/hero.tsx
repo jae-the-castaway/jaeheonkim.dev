@@ -1,6 +1,6 @@
 import Image from '@/components/Image'
-import ArrowRightSolid from '../public/static/images/arrow-right-solid.svg'
-import Link from 'next/link'
+import Link from '@/components/Link'
+import ArrowRightSolid from 'public/static/images/arrow-right-solid.svg'
 
 function HeroSection() {
   return (
@@ -16,14 +16,22 @@ function HeroSection() {
             experience.
           </h4>
           <h4 className="mb-4 text-xl leading-8 text-gray-700 dark:text-gray-300">
-            I am currently learning back-end web development.
+            I'm interested in walkable cities, Screenwriting, filmmaking and running.
           </h4>
-          <Link
-            className="btn-primary group py-4 font-bold text-xl text-primary-700 dark:text-primary-300"
-            href={'/about'}
-          >
-            Get to know me
-          </Link>
+
+          <div className="group">
+            {' '}
+            <Link
+              className="btn-primary  py-4 font-bold text-xl text-primary-700 dark:text-primary-300"
+              href={'/about'}
+            >
+              Get to know me
+            </Link>
+            <ArrowRightSolid
+              width={16}
+              className=" ml-2 align-middle inline duration-500 ease-in-out group-hover:translate-x-1"
+            />
+          </div>
         </div>
         <div className=" flex flex-col justify-center md:max-w-[50%]">
           <Image
