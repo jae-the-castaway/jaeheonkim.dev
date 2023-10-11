@@ -23,6 +23,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ['var(--font-space-grotesk)', ...fontFamily.sans],
+        serif: ['Georgia', ...fontFamily.serif],
       },
       colors: {
         primary: colors.emerald,
