@@ -1,11 +1,10 @@
-# Jae-heon Kim Portfolio and Blog
+# jaeheonkim.dev
 
-This is a personal website using [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/). It is based on Next App directory with [React Server Component](https://nextjs.org/docs/getting-started/react-essentials#server-components) and uses [Contentlayer](https://www.contentlayer.dev/) to manage markdown content.
-
+This is a personal portfolio and blog website about me using [Next.js](https://nextjs.org/), and [Tailwind CSS](https://tailwindcss.com/). It is based on the Next App directory with [React Server Component](https://nextjs.org/docs/getting-started/react-essentials#server-components) and uses [Contentlayer](https://www.contentlayer.dev/) to manage markdown content.
 
 ## Motivation
 
-I wanted to intergrate my existing portfolio website with blog features. I used the [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) as a template.
+I wanted to integrate my existing portfolio website with blog features. I used the [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) as a template.
 
 ## Features
 
