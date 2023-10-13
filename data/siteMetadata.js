@@ -1,16 +1,15 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Jaeheon Kim Portfolio Blog',
+  title: 'Portfolio & Blog Website',
   author: 'Jaeheon Kim',
-  headerTitle: 'Jaeheon Kim',
+  headerTitle: 'jaeheonkim.dev',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://jaeheonkim-portfolio-blog.vercel.app',
-  siteRepo: 'https://github.com/jae-the-castaway/tailwind-next-js-blog',
+  siteUrl: 'jaeheonkim.dev',
+  siteRepo: 'https://github.com/jae-the-castaway/jaeheonkim.dev',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/profile.jpg',
-  mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'jaeheonkim95@gmail.com',
   github: 'https://github.com/jae-the-castaway',
   linkedin: 'https://www.linkedin.com/in/jae-the-castaway/',
