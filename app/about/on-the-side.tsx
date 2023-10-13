@@ -6,6 +6,39 @@ function OnTheSide() {
       <div className=" my-32 mx-auto flex max-w-xl flex-col items-center px-4 md:max-w-2xl lg:max-w-5xl lg:flex-row">
         <div className="pr-6 lg:w-1/2 ">
           <p className="inline text-2xl text-gray-700 dark:text-gray-300 ">On the side: </p>
+          <h3 className="inline text-3xl font-bold ">Creative Writing</h3>
+          <p className=" mt-10 mb-4 text-xl prose dark:prose-invert">
+            In 2018, my girlfriend(my wife now!) and I started a&nbsp;
+            <a
+              href="https://www.youtube.com/@MaleeaandJae/videos"
+              target="_blank"
+              className="font-bold text-primary-700 dark:text-primary-300"
+            >
+              YouTube channel
+            </a>
+            &nbsp; called "Maleea and Jae", and we have been consistently uploading content ever
+            since. This experience has allowed me to learn video editing and videography by watching
+            online tutorials, which has improved my content creation skills.
+          </p>
+          <p className=" mb-4 text-xl prose dark:prose-invert">
+            As a co-creator of a successful YouTube channel with over 52,000 subscribers, I am
+            responsible for managing all aspects of video production, including filming and editing
+            all content and creating attractive thumbnails to increase viewer engagement.
+          </p>
+        </div>
+        <div className=" aspect-square w-full flex-auto overflow-hidden rounded-3xl lg:w-1/2  ">
+          <Image
+            src="/static/images/about/youtube-channel.jpg"
+            className=" w-full bg-cover"
+            alt="Maleea and Jae with plants on a porch"
+            width={500}
+            height={500}
+          />
+        </div>
+      </div>
+      <div className=" my-32 mx-auto flex max-w-xl flex-col items-center px-4 md:max-w-2xl lg:max-w-5xl lg:flex-row">
+        <div className="pr-6 lg:w-1/2 ">
+          <p className="inline text-2xl text-gray-700 dark:text-gray-300 ">On the side: </p>
           <h3 className="inline text-3xl font-bold ">YouTube Channel</h3>
           <p className=" mt-10 mb-4 text-xl prose dark:prose-invert">
             In 2018, my girlfriend(my wife now!) and I started a&nbsp;
@@ -37,7 +70,6 @@ function OnTheSide() {
         </div>
       </div>
       <div className=" my-32 mx-auto flex max-w-xl flex-col items-center px-4 md:max-w-2xl lg:max-w-5xl lg:flex-row">
-        {' '}
         <div className="pr-6 lg:w-1/2">
           <p className="inline text-2xl ">On the side:</p>
           <h3 className="inline text-3xl font-bold "> Walking</h3>

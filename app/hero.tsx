@@ -16,7 +16,8 @@ function HeroSection() {
             experience.
           </h4>
           <h4 className="mb-4 text-xl leading-8 text-gray-700 dark:text-gray-300">
-            I'm interested in walkable cities, Screenwriting, filmmaking and running.
+            I'm interested in Walkable Cities, Creative Writing, Filmmaking, Stand-up Comedy,
+            Running, Video Games.
           </h4>
 
           <div className="group">
