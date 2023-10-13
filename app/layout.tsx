@@ -15,6 +15,7 @@ const space_grotesk = Space_Grotesk({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-space-grotesk',
+  weight: 'variable',
 })
 
 export const metadata: Metadata = {
