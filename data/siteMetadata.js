@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'jaeheonkim.dev',
+  siteUrl: 'https://jaeheonkim.dev',
   siteRepo: 'https://github.com/jae-the-castaway/jaeheonkim.dev',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/profile.jpg',
